@@ -35,7 +35,7 @@ Antes de rodar o projeto, é necessário ter as seguintes ferramentas instaladas
     git clone https://github.com/ThomasWbr/petadota.git
     ```
 
-2. Abra o projeto na sua IDE (recomenda-se o [IntelliJ IDEA](https://www.jetbrains.com/idea/)).
+2. Abra o projeto na sua IDE.
 3. Execute a aplicação como uma aplicação Spring Boot. Na IDE, basta rodar a classe `PetAdotaApplication` (a classe principal com o método `main`).
 4. A aplicação estará rodando localmente no endereço [http://localhost:8080](http://localhost:8080).
 

@@ -32,7 +32,7 @@ Antes de rodar o projeto, é necessário ter as seguintes ferramentas instaladas
 1. Clone o repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https://github.com/ThomasWbr/petadota.git
     ```
 
 2. Abra o projeto na sua IDE (recomenda-se o [IntelliJ IDEA](https://www.jetbrains.com/idea/)).

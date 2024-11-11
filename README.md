@@ -47,11 +47,3 @@ Antes de rodar o projeto, é necessário ter as seguintes ferramentas instaladas
 - **PUT /api/animals/{id}** – Atualizar as informações de um animal.
 - **DELETE /api/animals/{id}** – Deletar um animal pelo ID.
 
-## Contribuição
-
-Se você deseja contribuir para o desenvolvimento deste projeto, fique à vontade para abrir uma *issue* ou fazer um *pull request*.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
